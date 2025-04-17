@@ -1,2 +1,0 @@
-# LMPandaSensei
- LM chatbot
